@@ -1,0 +1,4 @@
+id: ca.patricklafleur.games
+workspaces:
+    - path: gameszone
+    - path: zonesudoku
